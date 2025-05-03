@@ -1,2 +1,97 @@
 # sportspal-privacy
 Privacy Policy for the SportsPal app
+**Privacy Policy for SportsPal**
+
+Effective Date: May 3, 2025
+
+Thank you for using SportsPal. Your privacy is important to us. This Privacy Policy explains how we collect, use, share, and protect your information when you use our mobile application.
+
+---
+
+### 1. Information We Collect
+
+We collect the following types of information:
+
+#### a. Personal Information
+
+* Username and profile picture
+* City and neighborhood selection
+* Email address (if provided through third-party logins such as Google, Apple, or Facebook)
+
+#### b. Location Data
+
+* Approximate and precise location to show nearby sports games and courts
+* GPS coordinates when adding new courts or joining location-based games
+
+#### c. Device Data
+
+* Device ID and model for performance improvements and bug reporting
+* Notification token for sending reminders, updates, and alerts
+
+#### d. Activity Data
+
+* Games created, joined, or rated
+* Court submissions
+* In-app messages sent between users
+
+---
+
+### 2. How We Use Your Information
+
+We use your data to:
+
+* Provide and personalize your experience on SportsPal
+* Match you with relevant sports games and players
+* Send notifications about game reminders, updates, and ratings
+* Improve our services and maintain a safe environment
+
+We **do not** sell your personal data to third parties.
+
+---
+
+### 3. Sharing Your Information
+
+We may share limited data with trusted third parties in the following cases:
+
+* With service providers to host data and manage functionality (e.g., Firebase, Expo)
+* If required by law or legal process
+* To protect the rights and safety of SportsPal and its users
+
+---
+
+### 4. Data Security
+
+We implement industry-standard security protocols and limit access to your personal data. However, no system is 100% secure, and we encourage safe practices when sharing data.
+
+---
+
+### 5. Children’s Privacy
+
+SportsPal is not intended for users under the age of 13. If you are a parent or guardian and believe your child has provided personal information without your consent, please contact us.
+
+---
+
+### 6. Your Rights and Choices
+
+You can:
+
+* Update or delete your profile through the app
+* Request data removal by contacting us at [sportspalapplication@gmail.com](mailto:sportspalapplication@gmail.com)
+* Disable location or notifications from your device settings
+
+---
+
+### 7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. All changes will be posted in the app, and your continued use signifies acceptance.
+
+---
+
+### 8. Contact Us
+
+If you have questions about this Privacy Policy, contact us at:
+**Email:** [sportspalapplication@gmail.com](mailto:sportspalapplication@gmail.com)
+
+---
+
+This policy complies with Google Play’s User Data and Privacy Policy requirements and is inspired by industry leaders like Tinder, Strava, and Google.
